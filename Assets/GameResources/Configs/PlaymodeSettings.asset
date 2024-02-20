@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95bd8818bb6d8f84bae933b85790ad9b, type: 3}
+  m_Name: PlaymodeSettings
+  m_EditorClassIdentifier: 
+  UIFactory:
+    ChanceCellPrefab: {fileID: 5385094897741375391, guid: 8dc792b3885d99f4f98b0643928ae8bc, type: 3}
+    EdgeCellPrefab: {fileID: 5385094897741375391, guid: 92b033d01cef91944a79c37b28ee9b78, type: 3}
+    BusinessCellPrefab: {fileID: 5385094897741375391, guid: 38856888bee5430449647d419d67672a, type: 3}
+    CommunalCellPrefab: {fileID: 5385094897741375391, guid: 0d05d7421f372f3469763a3e88fd27db, type: 3}
+    InfrastructureCellPrefab: {fileID: 5385094897741375391, guid: e90659d2e9ea3b441859e602e2825e33, type: 3}
+    PlayerOnMapPrefab: {fileID: 5385094897741375391, guid: 6d4d134384ebcb74cbaf072a3148b8ff, type: 3}
+    PlayerInfoPanelPrefab: {fileID: 886274366267405513, guid: d4aef2e5fec0df94cab46c14940d8255, type: 3}
+    TradeCellPanelPrefab: {fileID: 886274366267405513, guid: ebef3cf861e52e34fbbf47d58b1afdbc, type: 3}
+    LogContainerPrefab: {fileID: 3424912437095396877, guid: d204632c9e933ff44bd290fbe86f1719, type: 3}
+    LogTextPrefab: {fileID: 277633542896523324, guid: f94f9c88dce6b8a4889f0de8cf4f3c80, type: 3}
+  gameMapConfig: {fileID: 11400000, guid: 8d0b07e6600c4b7458ec6145c863dc45, type: 2}
+  _cellAtlas: {fileID: 100100200, guid: 6df84c28af614db4ca2b387a70c4f94a, type: 3}
